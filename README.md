@@ -5,3 +5,6 @@
 > **Nota** Archivo para agregar a proyecto Java, en cualquier IDE de desarrollo, en el caso de eclipse, puede agregarse como biblioteca de usuario registrandolo en preferencias de Java. Revisar la pantalla siguiente que se activa cuando vamos al menu principal de eclipse y desde la opción de windows seleccionamos preferencias, se indica Java, Build Path y User libraries.
 > 
 ![](images/biblio1.png)
+>Seleccionar New para agregar nueva biblioteca, en el formulario proporcionar un nombre que le quieras dar, en mi caso le puse IOBasicSwing
+>
+![](images/biblio2.png)
