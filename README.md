@@ -12,7 +12,8 @@
 >
 ![](images/biblio3.png)
 >**Nota** Cuando se crea un proyecto Java nuevo, dirigirse a la sección de bibliotecas (Libraries) para agregar la biblioteca instalada previamente (IOBasicSwing)
-> Se deberá seleccionar classpath y el boton Add Library 
+  Se deberá seleccionar classpath y el boton Add Library 
+> 
 ![](images/biblio4.png)
 >**Nota** Una vez agregada la biblioteca se observará que se despliega su contenido.
 >
