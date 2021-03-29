@@ -8,3 +8,6 @@
 >Seleccionar New para agregar nueva biblioteca, en el formulario proporcionar un nombre que le quieras dar, en mi caso le puse IOBasicSwing
 >
 ![](images/biblio2.png)
+>Seleccionar Add External JARS ubicar la ruta donde se localizar el archivo IOBasic.jar seleccionarlo y mostrará lo siguiente:
+>
+![](images/biblio3.png)
